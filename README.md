@@ -243,8 +243,6 @@ This project can be deployed using:
 
 ## Abhay Shrivas
 
-B.Tech CSE Student — 6th Semester
-
 Frontend development enthusiast focused on building practical JavaScript projects and improving problem-solving skills.
 
 ---
